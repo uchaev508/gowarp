@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	requestLimit  = 500
+	requestLimit  = 155500
 	requestPeriod = time.Hour * 6
 )
 
